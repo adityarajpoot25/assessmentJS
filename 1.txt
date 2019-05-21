@@ -1,0 +1,40 @@
+{
+    "resturant1":[{
+        "name": "McDownald" ,
+        "phoneNumber": "97867865576",
+        "rating": "5*",
+        "Address":{
+            "BuildingNo": "H2" ,
+
+            "street":"Candor Road",
+
+            "area": "sector 21",
+
+            "city": "Gurgaon"
+
+
+        }
+    }
+
+    ],
+
+    "resturant2":[{
+        "name": "BurgerKing" ,
+        "phoneNumber": "8867567576",
+        "rating": "4*",
+        "Address":{
+            "BuildingNo": "H3" ,
+
+            "street":"MG Road",
+
+            "area": "sector 5s1",
+
+            "city": "Gurgaon"
+
+
+        }
+    }
+
+    ]
+
+}
